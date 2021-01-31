@@ -1,0 +1,12 @@
+# List of ignored files for git
+/CACHEDIR.TAG
+.pytest_cache/
+__pycache__/
+.idea/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+
